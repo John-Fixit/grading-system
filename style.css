@@ -1,0 +1,36 @@
+.all{
+    border: 5px solid springgreen;
+    background: rgb(207, 226, 217);
+    padding: 10px;
+    box-shadow: inset 6px -6px 13px whitesmoke;
+    margin: 5px auto;
+    border-top-left-radius: 3vh;
+    border-bottom-right-radius: 3vh;
+    text-align: center;
+}
+select{
+    height: 5vh;
+    box-shadow: inset  0px 0px 5px 4px ghostwhite;
+}
+input{
+    height: 30px;
+    border: 1px solid;
+    opacity: 60%;
+    outline:  none;
+    box-shadow: inset 0px 0px 9px 5px ghostwhite;
+    font-weight: bold;
+    border-radius: 2vh;
+}
+button{
+    padding: 1.5vh;
+    border-radius: 20px;
+    background: red;
+    outline: none;
+}
+#divideShow{
+    font-size: 2vh !important;
+}
+.marq{
+    color: lawngreen;
+    font-family: sans-serif;
+}
